@@ -36,10 +36,9 @@ I focus on developing **secure, efficient, and scalable solutions** using modern
 
 ### 🌍 Connect With Me
 
-- 💼 [Upwork Profile](https://www.upwork.com/) *(link your real one when ready)*  
+- 💼 [Upwork Profile](https://www.upwork.com/freelancers/~0154ea3026fe2e5ce7?mp_source=share)
 - 🌐 [Portfolio Website](https://cayolegal.vercel.app/)  
 - 💬 [LinkedIn](https://www.linkedin.com/in/cayo-amin-legal-figueredo/)  
-- 📧 cayolegal@hotmail.com  
 
 ---
 
