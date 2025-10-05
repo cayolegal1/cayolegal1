@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Hi there, I'm Cayo Amin Legal Figueredo
 
-<!--
-**cayolegal1/cayolegal1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Full-Stack & Mobile Developer | React Native | React | NestJS | TypeScript
 
-Here are some ideas to get you started:
+I'm a passionate software engineer from Paraguay 🇵🇾 specializing in building **high-performance web and mobile applications**.  
+I focus on developing **secure, efficient, and scalable solutions** using modern technologies and best coding practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+
+- 🔧 Currently working at **BEPSA (Asunción)** as a **Full-Stack Developer**
+- 📱 Experienced in building **e-commerce and business automation apps**
+- 🧩 Passionate about **clean code**, **agile methodologies**, and **team collaboration**
+- 🧠 Constantly improving in **frontend** and **backend scalability**
+
+---
+
+### 🧰 Tech Stack
+
+**Frontend:** React, Next.js, React Native, TypeScript, Tailwind CSS, ShadCN UI  
+**Backend:** Node.js, NestJS, Express.js, Prisma, SQL  
+**Tools & DevOps:** GitLab CI/CD, Semantic Release, Docker  
+**Other:** Unit Testing, Agile/Scrum, API Design, Firebase
+
+---
+
+### 🏆 Career Highlights
+
+- 🚀 Developed an **e-commerce mobile app** that increased online sales at *Bebidas del Paraguay*  
+- 🧱 Led internal system innovations and CI/CD pipelines at *BEPSA* improving developer efficiency  
+- ⚙️ Created a **CRM and automation platform** with *Next.js* and *React Native* for *Mega Digital*  
+- 💡 Delivered high-quality software for U.S. clients with *Innovatica*  
+
+---
+
+### 🌍 Connect With Me
+
+- 💼 [Upwork Profile](https://www.upwork.com/) *(link your real one when ready)*  
+- 🌐 [Portfolio Website](https://cayolegal.vercel.app/)  
+- 💬 [LinkedIn](https://www.linkedin.com/in/cayo-amin-legal-figueredo/)  
+- 📧 cayolegal@hotmail.com  
+
+---
+
+### ✨ Quote I Live By
+
+> “Clean code always looks like it was written by someone who cares.” — Robert C. Martin
+
+---
+
+⭐️ *I’m always open to collaborate on full-stack projects!*
