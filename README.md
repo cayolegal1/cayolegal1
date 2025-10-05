@@ -18,10 +18,11 @@ I focus on developing **secure, efficient, and scalable solutions** using modern
 
 ### 🧰 Tech Stack
 
-**Frontend:** React, Next.js, React Native, TypeScript, Tailwind CSS, ShadCN UI  
-**Backend:** Node.js, NestJS, Express.js, Prisma, SQL  
+**Frontend:** React, Next.js, React Native, TypeScript, Tailwind CSS
+**Backend:** Node.js, NestJS, Express.js, TypeScript, SQL  
+**Testing:** Jest, Vitest, React Testing Library, Cypress
 **Tools & DevOps:** GitLab CI/CD, Semantic Release, Docker  
-**Other:** Unit Testing, Agile/Scrum, API Design, Firebase
+**Other:** Agile/Scrum
 
 ---
 
